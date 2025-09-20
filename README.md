@@ -1,3 +1,6 @@
+# movie-app
+An application built specifically for movie lovers, so that they can explore their next favourite
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
